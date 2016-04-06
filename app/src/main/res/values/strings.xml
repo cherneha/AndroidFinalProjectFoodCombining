@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Food Combining</string>
+    <string name="meatS">MEAT, FISH, MUSHROOMS</string>
+    <string name="beansS">BEANS</string>
+    <string name="butterS">BUTTER</string>
+    <string name="creamS">SOUR CREAM</string>
+    <string name="oilsS">OILS</string>
+    <string name="sweetsS">SWEETS, CONFECTIONARY</string>
+    <string name="breadS">BREAD, POTATO, GRAINS</string>
+    <string name="sourfrS">SOUR FRUITS</string>
+    <string name="semisourfrS">HALF-SOUR FRUITS</string>
+    <string name="sweetfrS">SWEET FRUITS</string>
+    <string name="greenvegsS">GREEN VEGETABLES</string>
+    <string name="othervegsS">OTHER VEGETABLES</string>
+    <string name="fermenS">FERMENTED MILK PRODUCTS</string>
+    <string name="cheeseS">CHEESE</string>
+    <string name="eggsS">EGGS</string>
+    <string name="nutsS">NUTS</string>
+
+    <string name="meatText">Any types of animal meat; fish; seafood; mushrooms.</string>
+    <string name="beansText">Pea, soy beans, runner bean, chickpea, lens, and other types of beans.</string>
+    <string name="butterText">Any butter.</string>
+    <string name="creamText">Sour cream.</string>
+    <string name="oilsText">Olive, sunflower, almound oils, and any other botanical oils.</string>
+    <string name="sweetsText">Confectionary, sugar, marmelade, jams ect. </string>
+    <string name="breadText">Bread, grains, potato, corn, pasta.</string>
+    <string name="sourFrText">Tomatoes(!), oranges, lemons, grapefruits, mandarins and other citruses; pineapples; pomegranate, currant; sour apples, pears, plums, apricots, grape.</string>
+    <string name="halfSourFrText">Mango, watemellon, blueberry, peaches, strawberry, raspberry, sweet apples, sweet apricots and grapes</string>
+    <string name="sweetFrText">Bananas, sweet pears, dried fruits, fig, date plum.</string>
+    <string name="greenVText">Cucumbers, broccoli, cabbage, bell pepper, eggplant, onions, greenery</string>
+    <string name="otherVText">Carrot, beet, squash, pumpkins</string>
+    <string name="fermentedText">Cottage cheese, kefir, yogurt, tan, ect</string>
+    <string name="cheeseText">Any types of cheese (except for cottage cheese)</string>
+    <string name="eggsText">Any types of eggs</string>
+    <string name="nutsText">Any types of nuts</string>
+
+    <string name="meatD">Fish - cod, scrod, flounder, sole seafood - 30 min. digestion time Fish - salmon, salmon trout, herring, (more fatty fish) - 45 min. to 60 digestion time Chicken - 11/2 to 2 hours digestion time (without skin) Turkey - 2 to 2 1/4 hours digestion time (without skin) Beef, lamb - 3 to 4 hours digestion time Pork - 4 1/2 to 5 hours.</string>
+    <string name="fermentD">Cottage or low fat pot cheese or ricotta - approx. 90 min. digestion time whole milk cottage cheese - 120 min. digestion.</string>
+    <string name="nutsD">Almonds, filberts, peanuts (raw), cashews, Brazil, walnuts, pecans etc. - 2 1/2 to 3 hours to digest.</string>
+    <string name="beansD">Lentils, limes, chick peas, peas, pigeon peas, kidney beans, etc. - 90 min. digestion time soy beans -120 min. digestion time</string>
+    <string name="breadD">Brown rice, millet, buckwheat, cornmeal, oats (first 3 vegetables best) - 90 min. Corn, potatoes, sweet potatoes - 60 min.</string>
+    <string name="greenD">Lettuces, cucumber, celery, red or green pepper, other succulent vegetables - 30 to 40 min. digestion. - Steamed or cooked vegetables Leafy vegetables - escarole, spinach, kale, collards etc. - 40 min. - Zucchini, broccoli, cauliflower - 45 min. </string>
+    <string name="otherD">Root vegetables - carrots, beets, parsnips, turnips etc. - 50 min.</string>
+    <string name="semisweetD">Watermelon - 20 min.digestion time. Other melons - Cantaloupe, Cranshaw, Honeydew, etc. - 30 min. </string>
+    <string name="acidicD">Oranges, grapefruit, grapes - 30 min. Apples, pears, peaches, cherries etc. - digest in 40 min.</string>
+    <string name="sweetFrD">Digestion time - 30-40 mins.</string>
+    <string name="eggD">Egg yolk - 30 min. digestion time. Whole egg - 45 min. </string>
+    <string name="sweetD">Digestion time - 2-3 hours</string>
+    <string name="oilD">Digestion time - about 3 hours</string>
+    <string name="creanD">Digestion time - 1+ hour</string>
+    <string name="butterD">About 3 hours</string>
+    <string name="cheeseD">whole milk hard cheese - 4 to 5 hours digestion time.</string>
+
+     </resources>
